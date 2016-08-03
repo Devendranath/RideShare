@@ -17,6 +17,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    // Comment added by devendranath
     
     if (IS_IPHONE)
     {
